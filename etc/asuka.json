@@ -1,0 +1,4 @@
+{
+    "log": "/var/log/asuka",
+    "hosts": ["registry.npmjs.org"]
+}
