@@ -1,7 +1,7 @@
 FROM node:5.3.0
 MAINTAINER treelite <c.xinle@gmail.com>
 
-RUN npm install -g asuka@0.4.0
+RUN npm install -g asuka@0.4.1
 
 EXPOSE 8777
 
